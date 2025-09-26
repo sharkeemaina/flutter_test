@@ -28,6 +28,7 @@ The app adapts to mobile devices with a left-side **navigation drawer**:
 - **Provider**: Manages state across API fetching, form handling, and search filtering.
 - **Extras**: Dark mode toggle, hover animations, and unit tests for form validation.
 ![WhatsApp Image 2025-09-26 at 09 57 29_6c229297](https://github.com/user-attachments/assets/bf654432-d978-4471-b554-cfed762d22a3)
+![WhatsApp Image 2025-09-26 at 09 57 30_20b4d7a4](https://github.com/user-attachments/assets/272236d3-aa81-4f38-82e2-5441986ce2e1)
 
 
 
