@@ -29,11 +29,10 @@ The app adapts to mobile devices with a left-side **navigation drawer**:
 - **Extras**: Dark mode toggle, hover animations, and unit tests for form validation.
 ![WhatsApp Image 2025-09-26 at 09 57 29_6c229297](https://github.com/user-attachments/assets/bf654432-d978-4471-b554-cfed762d22a3)
 
-![WhatsApp Image 2025-09-26 at 09 57 29_1f5d1321](https://github.com/user-attachments/assets/46af169f-e255-4dcb-9876-905db8456ae1)
 
 
-A few resources to get you started if this is your first Flutter project:![WhatsApp Image 2025-09-26 at 09 57 28_3fc33ca1](https://github.com/user-attachments/assets/0fa41855-d2da-4a62-b65a-8098d7270084)
 
+A few resources to get you started if this is your first Flutter project:
 
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
