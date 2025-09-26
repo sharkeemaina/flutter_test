@@ -33,16 +33,7 @@ The app adapts to mobile devices with a left-side **navigation drawer**:
 
 A few resources to get you started if this is your first Flutter project:![WhatsApp Image 2025-09-26 at 09 57 28_3fc33ca1](https://github.com/user-attachments/assets/0fa41855-d2da-4a62-b65a-8098d7270084)
 
-![WhatsApp Image 2025-09-26 at 09 57 30_d8d88fdf](https://github.com/user-attachments/assets/b434d298-f03c-4b87-a4a9-81354185120b)
 
-![WhatsApp Image 2025-09-26 at 09 57 31_91fe7794](https://github.com/user-attachments/assets/9c2ac77e-da19-4c4c-98d5-77c604e02ea1)
-
-
-
-
-
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
